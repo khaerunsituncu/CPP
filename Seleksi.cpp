@@ -50,3 +50,4 @@ int main()
 				   cout<<"Kamu tidak memasukkan nila A atau B\n";
 		}
 }
+//komintar ini saya buat untuk git
